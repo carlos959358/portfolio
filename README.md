@@ -1,11 +1,39 @@
+# Carlos Beltran — Portfolio
 
-  # Build personal portfolio app
+Personal portfolio for Carlos Beltran Sanz, Backend Engineer and Data Engineering student based in Valencia, Spain.
 
-  This is a code bundle for Build personal portfolio app. The original project is available at https://www.figma.com/design/ImiNVyrouzJXA5XmACHAIV/Build-personal-portfolio-app.
+Built with React, TypeScript, and Vite.
 
-  ## Running the code
+## Stack
 
-  Run `npm i` to install the dependencies.
+- **React + TypeScript** — component architecture
+- **Vite** — build tooling and dev server
+- **Formspree** — contact form handling
 
-  Run `npm run dev` to start the development server.
-  # portfolio
+## Getting started
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Sections
+
+- **About** — profile and background
+- **Skills** — backend, data engineering, cloud, and platform skills
+- **Experience** — work history at Turbo Energy, GFT, and Innovatrium
+- **Projects** — personal and open-source projects
+- **Education** — Data & Cloud Master (EDEM), Cybersecurity, Web Development
+- **Contact** — contact form via Formspree + social links
+
+## Contact
+
+- Email: beltransanzcarlos@gmail.com
+- LinkedIn: [carlos-beltran-sanz](https://www.linkedin.com/in/carlos-beltran-sanz/)
+- GitHub: [carlos959358](https://github.com/carlos959358)
